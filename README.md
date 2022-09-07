@@ -1,6 +1,6 @@
 # GETTING STARTED
 
-This web application was built using:
+This server was built using:
 
 * Node.js
 * JSON
